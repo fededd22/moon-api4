@@ -1,0 +1,8 @@
+{
+  "name": "Remix moon-api",
+  "description": "Imported from GitHub: fededd22/moon-api",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
